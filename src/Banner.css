@@ -1,0 +1,41 @@
+.banner {
+  background: url("https://i.ibb.co/ynxnBfz/mcms.jpg") center center;
+  height: 69vh;
+  position: relative;
+  /* background-repeat: no-repeat; */
+}
+
+.banner_info {
+  color: white;
+  background-color: black;
+  padding-top: 25vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  width: 300px;
+}
+
+.banner_info > button {
+  background-color: crimson;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.banner_search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner_searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: crimson !important;
+}
+
+.banner_info > button:hover {
+  background-color: white;
+  color: crimson;
+}
