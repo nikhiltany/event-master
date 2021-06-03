@@ -41,8 +41,8 @@ function SearchPage() {
                 title="Shawn straight from Time square"
                 description="Coke, fries free , 50% off on booking from app"
                 star={3.8}
-                price="£35 / night"
-                total="£207 total /including GST"
+                price="₹500"
+                total="₹515 total /including GST"
             />
             <SearchResult
                 img="https://i.ibb.co/5Fc2zd4/77143398.jpg"
@@ -56,7 +56,7 @@ function SearchPage() {
             <SearchResult
                 img="https://i.ibb.co/1MPnP6c/harry.jpg"
                 location="California"
-                title="Shawn Mendes"
+                title="Harry Styles"
                 description="Coke, fries free , 50% off on booking from app"
                 star={5.0}
                 price="₹60"
