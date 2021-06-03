@@ -12,39 +12,39 @@ function home() {
 
             <div className='home__section'>
             <Card
-                src="https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720"
-                title="The Showman"
-                description="Unique activities we can do together, led by a world of hosts."
+                src="https://i.ibb.co/1MPnP6c/harry.jpg"
+                title="Harry Styles"
+                description=" Activities we can do together, led by a world of hosts."
             />
             <Card
-                src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
-                title="Unique camp stays"
-                description="Spaces that are more than just a place to sleep."
+                src="https://i.ibb.co/6YTgfVs/ipad.jpg"
+                title="Get live with zoom call and your favourite singer"
+                description="Biggest ever show"
             />
             <Card
-                src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
-                title=" celeb homes tour"
-                description="Comfortable private places, with room for friends or family."
+                src="https://i.ibb.co/LnLTj7q/shawn.jpg"
+                title="Shawn Mendes"
+                description="heyyy"
             />
             </div>
             <div className='home__section'>
             <Card
-                src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
-                title="3 Bedroom Flat in Bournemouth"
-                description="Superhost with a stunning view of the beachside in Sunny Bournemouth"
-                price="£130"
+                src="https://i.ibb.co/hVFB39R/billie.jpg"
+                title="Billie eilish  is Live"
+                description="we the best music"
+                price="₹130"
             />
             <Card
-                src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
-                title="Penthouse in London"
-                description="Enjoy the amazing sights of London with this stunning penthouse"
-                price="£350"
+                src="https://i.ibb.co/5Fc2zd4/77143398.jpg"
+                title="Justin Bieber is Live"
+                description="we the best music"
+                price="₹350"
             />
             <Card
-                src="https://media.nomadicmatt.com/2018/apartment.jpg"
-                title="1 Bedroom apartment"
-                description="Superhost with great amenities and a fabolous shopping complex nearby"
-                price="£70"
+                src="https://i.ibb.co/KLnwkM3/selena.jpg"
+                title="Selena is LIVE"
+                description="we the best music"
+                price="₹70"
             />
             </div>
         </div>
